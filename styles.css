@@ -1,0 +1,19 @@
+body{
+    max-height: 100% ;
+    max-width: 100%;
+    background-color: dimgray;
+}
+
+
+#canvas{
+    width: 750px ;
+    height: 750px;
+    background-color: darkblue;
+}
+
+#bricks{
+    width: 80%;
+    height: 25%;
+    background-color: firebrick;
+
+}
